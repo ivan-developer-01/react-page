@@ -33,7 +33,7 @@ nav {
 main {
   color: white;
   padding: 50px 20px;
-  background-image: url(./images/react-icon-large.png);
+  background-image: url(/images/react-icon-large.png);
   background-repeat: no-repeat;
   background-position: right 75%;
 }
