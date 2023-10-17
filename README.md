@@ -1,4 +1,4 @@
-# react-page
+# React Page
 
 ## Description
 
