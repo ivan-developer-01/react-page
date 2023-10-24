@@ -1,6 +1,6 @@
 # React Page
 
-![Local Image](images/react-page.png)
+![Local Image](images/react-page.PNG)
 
 ## Description
 
